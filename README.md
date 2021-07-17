@@ -1,16 +1,11 @@
-# payflow
+# Projeto da NextLevelWeek (Rocketseat)
 
-A new Flutter project.
+Projeto de agendamentos de pagamentos de boleto, usando Flutter, Google API e Firebase.
 
-## Getting Started
+## Sobre 📖
 
-This project is a starting point for a Flutter application.
+O projeto PayFlow foi desenvolvido na Next Level Week Together 💜💚. Nosso evento incrível que sempre traz projetos inéditos, além da intensa rotina de estudos, muitas conexões e networking, trabalho em grupo e em comunidade.
+O PayFlow se trata de um app mobile feito em Flutter 💙 para Gerenciamento de Boletos, contendo recursos como o uso de câmera e galeria, Machine Leaning com MLKit, Firebase Core e SignIn, Animações e Estilizações Personalizadas, entre vários outros pontos, como o uso do SharedPreferences.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse projeto foi desenvolvido com ❤️ na #NextLevelWeekTogether da Rocketseat 💜🚀.
+Participe da nossa Comunidade! 👋.
